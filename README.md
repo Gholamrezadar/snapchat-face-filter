@@ -1,4 +1,4 @@
-# snapchatfilter
+# Snapchat Filter
 Simple Snapchat Filter for Faces !
 
 watch video on youtube : https://youtu.be/jgwg0cLqd0M
